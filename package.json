@@ -1,0 +1,25 @@
+{
+  "name": "marvin-eda-assessments",
+  "version": "1.0.0",
+  "description": "Assessements: - CP02  *(incomplete)* - CP07  *(incomplete)* - WD02  *(incomplete)* - WD04  *(incomplete)*",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --noStackTrace --coverage",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarvinTheParanoid/JW-EDA-Assessments.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarvinTheParanoid/JW-EDA-Assessments/issues"
+  },
+  "homepage": "https://github.com/MarvinTheParanoid/JW-EDA-Assessments#readme",
+  "devDependencies": {
+    "jest": "^27.5.1",
+    "nodemon": "^2.0.15"
+  }
+}
