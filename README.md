@@ -3,7 +3,7 @@
 All EDA students, please ingnore!
 
 Assessements:
-- CP02  *(incomplete)*
+- CP02  
 - CP07  *(incomplete)*
 - WD02  *(incomplete)*
 - WD04  *(incomplete)*
