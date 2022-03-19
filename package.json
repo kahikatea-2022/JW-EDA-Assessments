@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest --watchAll --noStackTrace --coverage",
-    "start": "nodemon index.js"
+    "watch": "nodemon ./API/api.js"
   },
   "repository": {
     "type": "git",
@@ -21,5 +21,8 @@
   "devDependencies": {
     "jest": "^27.5.1",
     "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "express": "^4.17.3"
   }
 }
